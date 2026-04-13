@@ -1,0 +1,20 @@
+Flask==3.0.3
+mysql-connector-python==8.3.0
+python-dotenv==1.0.1
+
+# Twilio (WhatsApp/SMS)
+twilio==9.0.4
+
+# AI / NLP
+transformers==4.41.2
+torch==2.3.0
+
+# Sentence Embeddings (Clustering)
+sentence-transformers==2.7.0
+
+# Translation (Tamil → English)
+googletrans==4.0.0-rc1
+
+# Utilities
+numpy==1.26.4
+scikit-learn==1.4.2
